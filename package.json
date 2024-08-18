@@ -11,6 +11,8 @@
     "browser-router": "^0.2.0",
     "concurrently": "^8.2.2",
     "express-fileupload": "^1.5.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
